@@ -38,3 +38,5 @@ Regular feed-forward networks require flattening a 2D/3D image into a long 1D ve
 ### Task 7: Business Use Case Mapping
 **Field: Manufacturing**  
 This CNN mini project maps directly to visual quality control in factories. Checking items for defects manually is slow and expensive. Factory machines use high speed cameras attached on top of conveyor belts. The products roll over the conveyor belt and the camera catches the images and processes them, looking for any imperfections (dents, scratch or stains). This replaces manual inspection, reduces errors and shorten the time to sort through naormal and defected products.
+
+Dataset Source: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
